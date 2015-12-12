@@ -9,7 +9,7 @@ title:               Poole
 tagline:             The Jekyll Butler
 url:                 http://ajbc.io/jekyll-demo/
 paginate:            1
-baseurl:             "http://ajbc.io/jekyll-demo/"
+baseurl:             "http://ajbc.io/jekyll-demo"
 
 # Assets
 #
